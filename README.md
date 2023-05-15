@@ -5,7 +5,7 @@ INTRUSION DETECTION SYSTEM DOCUMENTATION
 
 1. Description:
 ----------------
-This code snippet implements a basic Intrusion Detection System (IDS) using Python and the Scapy library. The IDS captures network packets, handles different protocols, and performs further analysis to detect potential intrusions.
+This is a basic Intrusion Detection System (IDS) using Python and the Scapy library. The IDS captures network packets, handles different protocols, and performs further analysis to detect potential intrusions.
 
 2. Dependencies:
 -----------------
@@ -46,7 +46,7 @@ The code is organized into the following functions:
 
 6. Additional Considerations:
 -----------------------------
-- This code snippet provides a basic starting point for an IDS and can be extended according to specific requirements.
+- This code provides a basic starting point for an IDS and can be extended according to specific requirements.
 - Ensure proper permissions and privileges to capture network traffic.
 - Consider system performance and scalability when analyzing a large volume of packets.
 
